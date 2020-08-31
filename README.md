@@ -1,8 +1,5 @@
 # Face Detection and Alignment MTCNN
 
-[![circleci](https://circleci.com/gh/acampbel/mtcnn-face-detection.svg?style=svg)](https://circleci.com/gh/acampbel/mtcnn-face-detection) 
-[![codecov](https://codecov.io/gh/acampbel/mtcnn-face-detection/branch/master/graph/badge.svg)](https://codecov.io/gh/acampbel/mtcnn-face-detection)
-
 ## [__Download the toolbox here__](https://github.com/matlab-deep-learning/mtcnn-face-detection/releases/latest/download/MTCNN-Face-Detection.mltbx)
 
 This repository implements a deep-learning based face detection and facial landmark localization model using [multi-task cascaded convolutional neural networks (MTCNNs)](https://kpzhang93.github.io/MTCNN_face_detection_alignment/). 
